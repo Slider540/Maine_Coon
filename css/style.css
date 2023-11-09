@@ -1,0 +1,24 @@
+.square {
+  width: 300px;
+  /* height: 300px; */
+  border: 10px solid rgba(14, 193, 14, 0.867);
+  margin: 150px auto;
+}
+
+.round {
+  display: flex;
+  width: auto;
+  height: 70px;
+  border: 10px solid rgba(193, 14, 14, 0.867);
+  margin: 50px;
+  justify-content: center;
+  align-items: center;
+}
+
+a.minilink {
+  display: inline-block;
+  width: 50px;
+  text-align: center;
+  border: 5px solid rgba(24, 34, 218, 0.867);
+  padding: 10px;
+}
